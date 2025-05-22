@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <YealinkIPPhoneDirectory>
   <DirectoryEntry>
-    <Name>Steve Test 1</Name> 
+    <Name>SJS (Short)</Name> 
     <Telephone>8407467</Telephone> 
   </DirectoryEntry>
   <DirectoryEntry>
-    <Name>Steve Test 2</Name> 
+    <Name>Steve (Long))</Name> 
     <Telephone>18048407467</Telephone> 
   </DirectoryEntry>
 </YealinkIPPhoneDirectory>
