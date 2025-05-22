@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<YealinkIPPhoneDirectory>
+  <DirectoryEntry>
+    <Name>SJS (Short)</Name> 
+    <Telephone>8407467</Telephone> 
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>SJS (Long)</Name> 
+    <Telephone>18048407467</Telephone> 
+  </DirectoryEntry>
+</YealinkIPPhoneDirectory>
+<!-- This document lives at https://raw.githubusercontent.com/simssj/CFaM-Phones/refs/heads/main/directory.xml -->
