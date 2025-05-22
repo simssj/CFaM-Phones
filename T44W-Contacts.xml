@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root_group>
+	<group display_name="All Contacts" />
+	<group display_name="Blocklist" />
+</root_group>
+<root_contact>
+	<contact display_name="SJS" mobile_number="8407467" line="-1" ring="Auto" default_photo="" selected_photo="0" group_id_name="All Contacts" eyepea_contact_id="" />
+</root_contact>
