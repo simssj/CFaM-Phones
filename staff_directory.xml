@@ -2,11 +2,15 @@
 <YealinkIPPhoneDirectory>
   <DirectoryEntry>
     <Name>SJS (Short)</Name> 
-    <Telephone>8407467</Telephone> 
+    <Telephone>840-7467</Telephone> 
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>SJS (Medium)</Name> 
+    <Telephone>(804) 840-7467</Telephone> 
   </DirectoryEntry>
   <DirectoryEntry>
     <Name>SJS (Long)</Name> 
-    <Telephone>18048407467</Telephone> 
+    <Telephone>+1 (804) 840-7467</Telephone> 
   </DirectoryEntry>
 </YealinkIPPhoneDirectory>
 <!-- This document lives at https://raw.githubusercontent.com/simssj/CFaM-Phones/refs/heads/main/staff_directory.xml -->
